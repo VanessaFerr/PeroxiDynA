@@ -49,7 +49,6 @@ run(“Next Slice [>]”); </br>
 run(“Next Slice [>]”); </br> 
 run(“Clear”; “slice”); </br> 
 
-
 ## CODE 
 
 run("Split Channels"); </br> 
